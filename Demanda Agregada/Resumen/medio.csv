@@ -1,0 +1,13 @@
+﻿Adopcion;Demanda Agregada Promedio;Carga;Coordinacion
+100;215.4;Lenta;No coordinada
+100;252.8;Rápida;No coordinada
+100;119.2;Lenta;Coordinada
+100;119.1;Rápida;Coordinada
+300;621.09;Lenta;No coordinada
+300;709.69;Rápida;No coordinada
+300;360.44;Lenta;Coordinada
+300;360.56;Rápida;Coordinada
+500;1028.66;Lenta;No coordinada
+500;1169.69;Rápida;No coordinada
+500;589.84;Lenta;Coordinada
+500;595.85;Rápida;Coordinada
