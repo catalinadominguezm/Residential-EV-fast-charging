@@ -1,0 +1,14 @@
+﻿Adopcion,Demanda Agregada Promedio,Carga,Coordinacion
+100,208.71968,Lenta,No coordinada
+100,240.0869,Rápida,No coordinada
+100,124.5346,Lenta,Coordinada
+100,125.7756,Rápida,Coordinada
+300,592.2444,Lenta,No coordinada
+300,664.9052,Rápida,No coordinada
+300,368.7147,Lenta,Coordinada
+300,368.8644,Rápida,Coordinada
+500,972.6614,Lenta,No coordinada
+500,1087.0963,Rápida,No coordinada
+500,611.7227,Lenta,Coordinada
+500,610.7168,Rápida,Coordinada
+,,,
